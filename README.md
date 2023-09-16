@@ -1,9 +1,10 @@
+# LibreChat Instance App (Hurricane)
 
-<h1 align="center">LibreChat Instance App</h1>
+- This is a fork modified to suit my needs. Minor network corrections to make it work on my Intranet.
+- Copy the Intranet CA certificate to `{LibreChat-Android-App}\app\src\main\res\raw`
+- Build and install the `app-debug.apk` 
 
-*******
-
-
+> ### ⬇️ Everything below is from the original repository ⬇️
 ## About
 
 This app is a webview for [LibreChat](https://github.com/danny-avila/LibreChat) instance Android independent app, this project is forked from [ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app). ~~Default webpage of this app has been set to LibreChat's GitHub Page~~. This app is optimized for LibreChat's function which is not in original project. For example, Social Login Oauth login support is added to this build.
